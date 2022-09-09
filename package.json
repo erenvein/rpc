@@ -1,0 +1,21 @@
+{
+  "name": "rpc",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "author": "evilsdev",
+  "dependencies": {
+    "@types/discord-rpc": "^4.0.3",
+    "@types/events": "^3.0.0",
+    "discord-rpc": "^4.0.1",
+    "events": "^3.3.0"
+  },
+
+  "repository": {
+    "url": "https://github.com/evilsdev/rpc"
+  },
+  "scripts": {
+    "start": "node dist/index.js",
+    "build": "tsc"
+  }
+}

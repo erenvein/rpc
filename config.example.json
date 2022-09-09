@@ -1,0 +1,32 @@
+{
+    "clientID": "id",
+
+    "clientSecret": "secret",
+
+    "state": "Hi",
+    
+    "details": "Another Hi",
+    
+    "buttons": {
+        "1": {
+            "label": "site",
+            "url": "https://evils.dev"
+        },
+
+        "2": {
+            "label": "Cdn",
+            "url": "https://cdn.evils.dev"
+        }
+    },
+
+    "assets": {
+        "large": {
+            "text": "evils",
+            "image": "eren2"
+        },
+        "small": {
+            "text": "wow",
+            "image": "evilss"
+        }
+    }
+}

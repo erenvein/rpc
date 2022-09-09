@@ -1,0 +1,1 @@
+npm install && tsc && npm run start

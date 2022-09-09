@@ -1,0 +1,32 @@
+{
+    "clientID": "",
+
+    "clientSecret": "",
+
+    "state": "",
+    
+    "details": "",
+    
+    "buttons": {
+        "1": {
+            "label": "",
+            "url": ""
+        },
+
+        "2": {
+            "label": "",
+            "url": ""
+        }
+    },
+
+    "assets": {
+        "large": {
+            "text": "",
+            "image": ""
+        },
+        "small": {
+            "text": "",
+            "image": ""
+        }
+    }
+}
